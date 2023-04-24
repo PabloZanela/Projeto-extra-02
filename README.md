@@ -1,4 +1,4 @@
-<h1 align="Mentoring"> Train-me </h1>
+<h1 align="center"> Mentoring </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
